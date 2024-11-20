@@ -1,0 +1,6 @@
+# Ignorar archivos ejecutables
+*.exe
+
+# Ignorar archivos temporales
+*.tmp
+
